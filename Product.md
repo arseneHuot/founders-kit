@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>kdpbook.io</td>
+<td>AI / Self-Publishing</td>
+<td>AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing.</td>
+<td>Self-publishers, authors and Amazon KDP sellers</td>
+<td>Freemium</td>
+<td><a href="https://kdpbook.io/">kdpbook.io</a></td>
+</tr>
 </tbody>
 </table>
